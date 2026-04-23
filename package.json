@@ -1,0 +1,17 @@
+{
+  "name": "koda-app",
+  "private": true,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2",
+    "adm-zip": "^0.5",
+    "exceljs": "^4",
+    "next": "latest",
+    "pdf-parse": "^1",
+    "pdf2pic": "^3",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
